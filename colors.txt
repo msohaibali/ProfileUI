@@ -1,0 +1,4 @@
+PrimaryDark = #292b3d
+graylight = #fafafa
+startblue = #09c6df
+endblue = #0bcce6
